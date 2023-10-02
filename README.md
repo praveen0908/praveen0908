@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm praveen_kumar</h1>
 # Machine Learning Enthusiast | AI/ML & Data Science Practitioner | Web Developer | Cricket Fanatic
 
-Hello there! 👋 I'm [Your Name], a dedicated machine learning enthusiast with a strong background in AI/ML and data science. I'm also a proficient web developer who has successfully completed several exciting web development projects.
+Hello there! 👋 I'm Praveen Kumar, a dedicated machine learning enthusiast with a strong background in AI/ML and data science. I'm also a proficient web developer who has successfully completed several exciting web development projects.
 
 ## 💡 What I'm All About
 
@@ -17,7 +17,7 @@ Hello there! 👋 I'm [Your Name], a dedicated machine learning enthusiast with 
 
 📷 **Photography Passion:** Another one of my passions is photography. I find beauty in the ordinary and enjoy capturing those moments that tell a unique story.
 
-📚 **Currently Reading:** I'm currently engrossed in "[Current Book You're Reading]" by [Author]. It's a fantastic journey, and I'm always up for discussing books and sharing recommendations.
+📚 **Currently Reading:** I'm currently engrossed in "Atomic Hbits" by James Clear. It's a fantastic journey, and I'm always up for discussing books and sharing recommendations.
 
 ## 🚀 What I'm Up To
 
