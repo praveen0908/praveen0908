@@ -1,11 +1,30 @@
 <h1 align="center">Hi 👋, I'm praveen_kumar</h1>
-<h3 align="center"># Machine Learning Enthusiast | AI/ML & Data Science Practitioner | Web Developer Hello there! 👋 I'm praveen_kumar_S, a dedicated machine learning enthusiast with a strong background in AI/ML and data science. I'm also a proficient web developer who has successfully completed several exciting web development projects. ## 💡 What I'm All About 
-  🤖 Machine Learning Maven:I'm passionate about the endless possibilities that machine learning offers. From natural language processing to computer vision, I love exploring and building innovative solutions using ML algorithms and techniques.
-  📊 Data Science Aficionado: I thrive on data-driven insights. I enjoy working with data, extracting valuable information, and turning it into actionable decisions. Data visualization and analysis are my superpowers. 
-  💻 Web Development Wizard: In addition to my AI/ML pursuits, I have a knack for web development. I've brought numerous web projects to life, creating seamless and user-friendly experiences. 
-  ## 🚀 What I'm Up To - 📚 Currently honing my skills in deep learning and neural networks. 
-                        - 🌐 Exploring the intersection of AI and web development to create smart, responsive applications. 
-                        - 📈 Always on the lookout for fascinating datasets and new challenges in data science. Let's build the future together! 🤝</h3>
+# Machine Learning Enthusiast | AI/ML & Data Science Practitioner | Web Developer | Cricket Fanatic
+
+Hello there! 👋 I'm [Your Name], a dedicated machine learning enthusiast with a strong background in AI/ML and data science. I'm also a proficient web developer who has successfully completed several exciting web development projects.
+
+## 💡 What I'm All About
+
+🤖 **Machine Learning Maven:** I'm passionate about the endless possibilities that machine learning offers. From natural language processing to computer vision, I love exploring and building innovative solutions using ML algorithms and techniques.
+
+📊 **Data Science Aficionado:** I thrive on data-driven insights. I enjoy working with data, extracting valuable information, and turning it into actionable decisions. Data visualization and analysis are my superpowers.
+
+💻 **Web Development Wizard:** In addition to my AI/ML pursuits, I have a knack for web development. I've brought numerous web projects to life, creating seamless and user-friendly experiences.
+
+🏏 **Cricket Fanatic:** Cricket is not just a sport for me; it's a passion. I never miss a match and am always ready to discuss the latest cricketing events and statistics.
+
+🎵 **Music Enthusiast:** When I'm not immersed in tech, I'm strumming my guitar. Music is my escape, and I love creating melodies in my free time.
+
+📷 **Photography Passion:** Another one of my passions is photography. I find beauty in the ordinary and enjoy capturing those moments that tell a unique story.
+
+📚 **Currently Reading:** I'm currently engrossed in "[Current Book You're Reading]" by [Author]. It's a fantastic journey, and I'm always up for discussing books and sharing recommendations.
+
+## 🚀 What I'm Up To
+
+- 📚 Continuing my exploration of deep learning and neural networks.
+- 🌐 Merging the realms of AI and web development to craft smart, responsive applications.
+- 📈 Always on the hunt for intriguing datasets and new data science challenges.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen0908&label=Profile%20views&color=0e75b6&style=flat" alt="praveen0908" /> </p>
 
